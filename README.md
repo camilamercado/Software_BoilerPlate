@@ -2,6 +2,8 @@ Software Studios Boilerplate
 ------------------------------
 React / Redux / React-Router / Heroku
 
+![alt tag](https://github.com/camilamercado/Software_BoilerPlate/blob/master/public/page.png)
+
 Project cloned from @Mars [Create React App](https://github.com/mars/create-react-app-buildpack)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
